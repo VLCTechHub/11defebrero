@@ -1,0 +1,19 @@
+- name: Llegada
+  day:  1
+  time: "18:30"
+
+- name: Presentación de las cuatro ponentes iniciales
+  day:  1
+  time: "18:40"
+
+- name: Inicio del debate
+  day:  1
+  time: "18:45"
+
+- name: Networking
+  day:  1
+  time: "19:45"
+
+- name: Finalización del evento
+  day:  1
+  time: "20:45"

@@ -1,0 +1,14 @@
+original_repo: https://github.com/vlctechhub/11defebrero
+
+volunteers_form: ""
+mentors_form: ""
+attendees_form: https://evenbrite.es
+
+keywords: "debate, VLCTechHub, mujer, tecnologia, Valencia, evento, febrero"
+title: "Debate con tecnólogas - 7 de febrero - VLCTechHub"
+description: "Vente al debate con tecnólogas a charlar sobre mujer y tecnología el 6 de febrero, 2019 Valencia. Es una actividad dentro de la iniciativa 11 de Febrero organizada por VLCTechHub, DevWomen y FemDevs."
+og_image: "https://11defebrero.vlctechhub.org/assets/images/cartel-11f-actividades.jpg"
+
+sass:
+    sass_dir: assets/_sass
+    style: compressed

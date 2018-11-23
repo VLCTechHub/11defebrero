@@ -1,0 +1,20 @@
+- question: A quien va dirigido este evento?
+  answer: Esta charla va dirigida a personas profesionales y estudiantes de tecnología.
+- question: Qué es un debate fishbowl?
+  answer: Es un tipo de debate donde cualquier participante puede hablar. Se pondrán cinco asientos para cuatro ponentes iniciales que abriran el debate con la pregunta del evento. Cuando alguien de los asistentes quiere comentar o aportar algo debe ocupar el asiento libre. En ese momento alguno de los cuatro ponentes iniciales debe marcharse, para siempre dejar un asiento libre.
+- question: Es gratuito el evento?
+  answer: Cada asistente deberá hacer una consumición mínima en el local, no te preocupes, hay precios populares ;)
+- question: Soy estudiante y esto del 'éxito en el mundo profesional' me pilla un poco lejos, esto es para mí?
+  answer: Es una buena oportunidad charlar e intercambiar opiniones con mujeres que estan recorriendo el camino.
+- question: Habrá comida?
+  answer: El debate se celebra en un local donde puedes comprarte un café, una cerveza o algo de comer.
+- question: Cuando se abre el registro?
+  answer: El 7 de enero, justo un mes antes. Recuerda que si te registras y no puedes asistir, libera tu plaza.
+- question: Soy un hombre, puedo asistir?
+  answer: Sí. Es una jornada para debatir con mujeres sobre mujeres y tecnología y cualquiera puede asistir.
+- question: No conozco a nadie, pero me interesa el tema, debería ir?
+  answer: Por supuesto, es una gran oportunidad de conocer a mujeres que se dedican a la tecnología!
+- question: Voy a asitir al evento y me gustaría aparecer con mi bio en esta web, que tengo que hacer?
+  answer: Puedes abrir un pull request con tus cambios. Si no tienes claro como hacerlo, ponte en contacto por correo.
+- question: Tienes alguna pregunta más?
+  answer: "Contacta por correo en [hola@vlctechhub.org](mailto:hola@vlctechhub.org)"
