@@ -1,7 +1,7 @@
 ---
 ---
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
 
@@ -20,8 +20,8 @@
 
     <!-- for Facebook -->
     <meta property="og:title" content="{{site.title}}"/>
-    <meta property="og:image" content="https://local.hackcu.org/assets/images/ogimage870x450.png"/>
-    <meta property="og:image:secure_url" content="https://local.hackcu.org/assets/images/ogimage870x450.png">
+    <meta property="og:image" content="{{site.ogimage}}"/>
+    <meta property="og:image:secure_url" content="{{site.ogimage}}>
     <meta property="og:url" content="https://vlctechhub.org"/>
     <meta property="og:description" content="{{site.description}}"/>
     <!-- for Twitter -->
@@ -30,7 +30,7 @@
     <meta name="twitter:site" content="@vlctechhub">
     <meta name="twitter:creator" content="@vlctechhub">
     <meta name="twitter:description" content="{{site.description}}"/>
-    <meta name="twitter:image" content="https://local.hackcu.org/assets/images/ogimage870x450.png"/>
+    <meta name="twitter:image" content="{{site.ogimage}}"/>
 
     <title>{%if page.title %}{{page.title}} | {%endif%}{{site.title}}</title>
 
