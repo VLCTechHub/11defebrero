@@ -78,11 +78,12 @@ a.cta {
     padding: 20px 40px;
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 1.5em;
+    font-size: 1em;
     font-weight: bold;
     display:inline-block;
     box-shadow: 0 8px 0 darken(#fa0, 10%);
     border-bottom: none;
+    margin-top: 40px;
     &:hover {
       color: white;
       background: lighten(#fa0, 10%);
@@ -171,12 +172,6 @@ header {
     grid-column-start: 3;
     grid-column-end: 4;
   }
-
-  p {
-    min-height: 100px;
-    margin-top: 40px;
-  }
-
 }
 
 #about {
@@ -210,7 +205,7 @@ header {
     margin: 10px;
   }
   img {
-    max-width: 150px;
+    max-width: 240px;
   }
 }
 
@@ -314,4 +309,22 @@ footer {
 
   }
 }
-
+.speakers {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 80px;
+  margin-bottom: 60px;
+}
+.speaker {
+  text-align: center;
+  .avatar {
+    max-width: 160px;
+    border-radius: 50%;
+  }
+  .bio {
+    text-align: left;
+  }
+  .twitter {
+    padding-bottom: 20px;
+  }
+}
